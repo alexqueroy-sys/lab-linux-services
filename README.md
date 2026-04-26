@@ -24,7 +24,21 @@ configuration de services réseau essentiels en entreprise.
 - VirtualBox 7.x
 
 ## 📸 Screenshots
-(à ajouter)
+
+### Configuration DHCP
+![DHCP Config](CONF%20DHCP.PNG)
+
+### Serveur DHCP actif
+![DHCP](server%20DHCP%20ACTIF.PNG)
+
+### SSH actif
+![SSH](SSH%20ACTIF.PNG)
+
+### DNS BIND9 actif
+![DNS](BIND9%20ACTIF.PNG)
+
+### Apache2 actif
+![Apache](APACHE2%20ACTIF.PNG)
 
 ## 📚 Ce que j'ai appris
 - Naviguer et configurer un serveur Linux en ligne de commande
